@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Linotte";
+  src: url("/fonts/linotte/Linotte-SemiBold.eot");
+  src: url("/fonts/linotte/Linotte-SemiBold.eot?#iefix")
+      format("embedded-opentype"),
+    url("/fonts/linotte/Linotte-SemiBold.woff") format("woff"),
+    url("/fonts/linotte/Linotte-SemiBold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+/* fonts test*/
+@font-face {
+  font-family: "KingThings";
+  src: url("/fonts/kingthings/KingthingsTrypewriter.eot");
+  src: url("/fonts/kingthings/KingthingsTrypewriter.eot");
+  src: url("/fonts/kingthings/KingthingsTrypewriter.eot?#iefix")
+      format("embedded-opentype"),
+    url("/fonts/kingthings/KingthingsTrypewriter.woff") format("woff"),
+    url("/fonts/kingthings/KingthingsTrypewriter.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
